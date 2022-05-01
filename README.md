@@ -1,5 +1,21 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+NU Laguna Online Grading System is a system that uses the internet to allow professors to manage and submit class grades.
+
+Admin Interface
+
+![image](https://user-images.githubusercontent.com/90967308/160371589-8b46e735-d6b6-496e-a0c8-c7f0851aa5e1.png)
+
+
+User Interface
+
+![image](https://user-images.githubusercontent.com/90967308/160372533-589e0fb0-7a02-410a-ae22-58935ca05029.png)
+
+
+Professors Interface
+
+![image](https://user-images.githubusercontent.com/90967308/160372955-17e8b56a-f7ee-400e-b77f-b173e8447747.png)
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
