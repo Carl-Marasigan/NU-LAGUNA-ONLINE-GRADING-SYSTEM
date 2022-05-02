@@ -7,12 +7,12 @@ Admin Interface
 ![image](https://user-images.githubusercontent.com/90967308/160371589-8b46e735-d6b6-496e-a0c8-c7f0851aa5e1.png)
 
 
-User Interface
+<h1>User Interface</h1>
 
 ![image](https://user-images.githubusercontent.com/90967308/160372533-589e0fb0-7a02-410a-ae22-58935ca05029.png)
 
 
-Professors Interface
+<h1>Professors Interface</h1>
 
 ![image](https://user-images.githubusercontent.com/90967308/160372955-17e8b56a-f7ee-400e-b77f-b173e8447747.png)
 
