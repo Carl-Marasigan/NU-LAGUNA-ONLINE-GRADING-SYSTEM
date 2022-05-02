@@ -2,7 +2,7 @@
 
 # NU Laguna Online Grading System is a system that uses the internet to allow professors to manage and submit class grades.
 
-Admin Interface
+<h1>Admin Interface</h1>
 
 ![image](https://user-images.githubusercontent.com/90967308/160371589-8b46e735-d6b6-496e-a0c8-c7f0851aa5e1.png)
 
